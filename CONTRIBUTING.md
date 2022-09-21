@@ -12,6 +12,7 @@ Fork [MinIO upstream](https://github.com/minio/minio/fork) source repository to 
 
 ```sh
 git clone https://github.com/minio/minio
+cd minio
 go install -v
 ls /go/bin/minio
 ```
